@@ -79,7 +79,7 @@ Designed for Windows Command Prompt only.
 ## Credits
 
 Created by **Cerafin C F**
-AI collaboration and system support: **ChatGPT (OpenAI)**, **Gemini (Google)** & **Claude (Anthropic)**
+AI collaboration and coding support: **ChatGPT (OpenAI)**, **Gemini (Google)** & **Claude (Anthropic)**
 
 ---
 
