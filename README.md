@@ -76,4 +76,4 @@ Helped by **Aarav Patel**
 
 ---
 
-> *this script is not just code. it is a reflection loop.*
+> *This script is not just code. It is a reflection loop.*
