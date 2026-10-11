@@ -3,7 +3,17 @@
 
 ## What this is
 
-**Choose_This_Day** is a short interactive batch script about routine, repetition, and the habits most people never notice.
+**Choose_This_Day** is a short interactive script about routine, repetition, and the habits most people never notice. It has all types of shell and terminal scripts, including
+1. Bash (.sh)
+2. Batchfile (.bat)
+3. Command Prompt (.cmd)
+4. Fish Shell (.fish)
+5. Korn Shell (.ksh)
+6. Minimalist POSIX (.sh)
+7. Powershell (.ps1)
+8. Shell (.sh)
+9. TENEX C Shell (.tcsh)
+10. Z Shell (.zsh)
 
 Each decision feels small.
 Together, they reveal a pattern.
@@ -25,30 +35,11 @@ It reflects what you repeatedly chose.
 
 ## How to run
 
-### Option 1 — Manual
-1. Download `Choose_This_Day.bat`
-2. Double-click to run
-3. Follow the on-screen instructions
+1. Download your file depending on your operating system and your preferences.
+2. Double-click to run.
+3. Follow the on-screen instructions.
+4. Run it to see the rest.
 
-> Windows may show a security warning before running.
-> This is normal for unsigned batch scripts.
-
----
-
-### Option 2 — Run directly from CMD
-
-Paste this into your Windows Command Prompt:
-
-```bat
-curl -L -o Choose_This_Day.bat https://raw.githubusercontent.com/Cerafu/Choose_This_Day/refs/heads/main/Choose_This_Day.bat && Choose_This_Day.bat
-```
-
----
-## Preview
-
-![preview](preview.png)
-
-> *run it to see the rest.*
 ---
 
 ## Features
@@ -66,13 +57,14 @@ curl -L -o Choose_This_Day.bat https://raw.githubusercontent.com/Cerafu/Choose_T
 
 ## Compatibility
 
-Designed for Windows Command Prompt only.
+Designed for every operating system.
 
 | Platform | Status |
 |---|---|
-| Windows 10 | ✔ Supported |
-| Windows 11 | ✔ Supported |
-| Linux / macOS | ✘ Not supported |
+| Windows | ✔ Supported |
+| Linux | ✔ Supported |
+| macOS | ✔ Supported |
+| Some Custom Operating Systems | ✔ Also Supported |
 
 ---
 
@@ -80,6 +72,7 @@ Designed for Windows Command Prompt only.
 
 Created by **Cerafin C F**
 AI collaboration and coding support: **ChatGPT (OpenAI)**, **Gemini (Google)** & **Claude (Anthropic)**
+Helped by **Aarav Patel**
 
 ---
 
