@@ -1,0 +1,22 @@
+# Force GitHub Linguist to recognize specific shell languages
+
+# KornShell (ksh)
+*.ksh linguist-language=Shell
+
+# Fish Shell (fish)
+*.fish linguist-language=Fish
+
+# Z Shell (zsh)
+*.zsh linguist-language=Shell
+.zshrc linguist-language=Shell
+.zprofile linguist-language=Shell
+.zlogin linguist-language=Shell
+.zlogout linguist-language=Shell
+
+# TENEX C Shell (tcsh)
+*.tcsh linguist-language=TCsh
+*.csh linguist-language=TCsh
+
+# Windows Command Prompt (cmd)
+*.cmd linguist-language=Batchfile
+*.bat linguist-language=Batchfile
